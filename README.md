@@ -8,7 +8,7 @@ The application serves an education purpose.
 
 Scene one:
 Surgical room - top of the patient body (real human anatomy) is present on the surgical table. If touched with a specific object (biopsy needle) - the skin disappears, revealing tissues hidden underneath.
-<img src="operacyjna_screenshots/surgical_view_1.png"/>
+<img src="operacyjna_screenshots/surgical_view_1.PNG"/>
 <img src="operacyjna_screenshots/surgical_view_2.png"/>
 <img src="operacyjna_screenshots/surgical_view_2.png"/>
 
