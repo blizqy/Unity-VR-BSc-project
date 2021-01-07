@@ -8,9 +8,9 @@ The application serves an education purpose.
 
 Scene one:
 Surgical room - top of the patient body (real human anatomy) is present on the surgical table. If touched with a specific object (biopsy needle) - the skin disappears, revealing tissues hidden underneath.
-<img src="operacyjna_screenshots/surgical_view1.png"/>
-<img src="operacyjna_screenshots/surgical_view2.png"/>
-<img src="operacyjna_screenshots/surgical_view2.png"/>
+<img src="operacyjna_screenshots/surgical_view_1.png"/>
+<img src="operacyjna_screenshots/surgical_view_2.png"/>
+<img src="operacyjna_screenshots/surgical_view_2.png"/>
 
 Scene two:
 A morgue with a number of anatomical models of different formats, mostly .STL (used in medical imaging and 3D printing). Objects are based on real patients data - CT scans (e.g. skull), MRI scans (e.g. lungs) and 3D surface scan (my friend’s face :) ). All of the models and surgical tools can be moved freely using controllers. Collisions are implemented.
