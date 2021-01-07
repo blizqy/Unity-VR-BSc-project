@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: f2eb49a352e102445b08dfe551421de4
+timeCreated: 1526329507
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ball Bearing:1
+    100002: Ball Bearing:2
+    100004: Big Gear Shaft v1:1
+    100006: Blade Guard Assembly v1:1
+    100008: Blade Guard Base Pin:1
+    100010: Blade Guard Base Rivet:1
+    100012: Blade Guard Bolt:1
+    100014: Blade Guard Lock Washer:1
+    100016: Blade Guard Post:1
+    100018: Blade Guard v1:1
+    100020: Blade Guard Washer:1
+    100022: Blade Holder Assembly v1:1
+    100024: Blade Holder:1
+    100026: Blade Removal Ring:1
+    100028: Blade v1:2
+    100030: Body1
+    100032: Body1 1
+    100034: Body1 10
+    100036: Body1 11
+    100038: Body1 12
+    100040: Body1 13
+    100042: Body1 14
+    100044: Body1 15
+    100046: Body1 16
+    100048: Body1 17
+    100050: Body1 18
+    100052: Body1 19
+    100054: Body1 2
+    100056: Body1 20
+    100058: Body1 21
+    100060: Body1 22
+    100062: Body1 23
+    100064: Body1 24
+    100066: Body1 25
+    100068: Body1 26
+    100070: Body1 27
+    100072: Body1 28
+    100074: Body1 29
+    100076: Body1 3
+    100078: Body1 30
+    100080: Body1 31
+    100082: Body1 32
+    100084: Body1 33
+    100086: Body1 34
+    100088: Body1 35
+    100090: Body1 36
+    100092: Body1 37
+    100094: Body1 38
+    100096: Body1 39
+    100098: Body1 4
+    100100: Body1 40
+    100102: Body1 41
+    100104: Body1 42
+    100106: Body1 43
+    100108: Body1 5
+    100110: Body1 6
+    100112: Body1 7
+    100114: Body1 8
+    100116: Body1 9
+    100118: //RootNode
+    100120: Brush Arm:1
+    100122: Brush Arm:2
+    100124: Brush Holder:1
+    100126: Connecting Rod v1:1
+    100128: Gear Housing Cover v1:1
+    100130: Gear Housing v1:1
+    100132: Guide Block 1 v1:1
+    100134: Guide Block 2 v1:1
+    100136: Large Bushing v1:2
+    100138: Large Spur Gear v1:1
+    100140: Motor Brush:1
+    100142: Motor Brush:2
+    100144: Motor Collar:1
+    100146: Motor Fan:1
+    100148: Motor Hat:1
+    100150: Motor Housing:1
+    100152: Motor Internals v1:2
+    100154: Motor Shaft:1
+    100156: Motor v1:1
+    100158: Permanent Magnet:1
+    100160: Permanent Magnet:2
+    100162: Reciprocating Rod:1
+    100164: Reciprocating Saw machine v5
+    100166: Right Housing:1
+    100168: Rotor Arm:1
+    100170: Rotor Arm:2
+    100172: Rotor Arm:3
+    100174: Rotor Arm:4
+    100176: Short Rod Clip v1:2
+    100178: Short Rod v1:1
+    100180: Small Bushing (1):1
+    100182: Small Bushing:1
+    100184: Small Spur Gear v1:1
+    100186: Trigger v1:1
+    400000: Ball Bearing:1
+    400002: Ball Bearing:2
+    400004: Big Gear Shaft v1:1
+    400006: Blade Guard Assembly v1:1
+    400008: Blade Guard Base Pin:1
+    400010: Blade Guard Base Rivet:1
+    400012: Blade Guard Bolt:1
+    400014: Blade Guard Lock Washer:1
+    400016: Blade Guard Post:1
+    400018: Blade Guard v1:1
+    400020: Blade Guard Washer:1
+    400022: Blade Holder Assembly v1:1
+    400024: Blade Holder:1
+    400026: Blade Removal Ring:1
+    400028: Blade v1:2
+    400030: Body1
+    400032: Body1 1
+    400034: Body1 10
+    400036: Body1 11
+    400038: Body1 12
+    400040: Body1 13
+    400042: Body1 14
+    400044: Body1 15
+    400046: Body1 16
+    400048: Body1 17
+    400050: Body1 18
+    400052: Body1 19
+    400054: Body1 2
+    400056: Body1 20
+    400058: Body1 21
+    400060: Body1 22
+    400062: Body1 23
+    400064: Body1 24
+    400066: Body1 25
+    400068: Body1 26
+    400070: Body1 27
+    400072: Body1 28
+    400074: Body1 29
+    400076: Body1 3
+    400078: Body1 30
+    400080: Body1 31
+    400082: Body1 32
+    400084: Body1 33
+    400086: Body1 34
+    400088: Body1 35
+    400090: Body1 36
+    400092: Body1 37
+    400094: Body1 38
+    400096: Body1 39
+    400098: Body1 4
+    400100: Body1 40
+    400102: Body1 41
+    400104: Body1 42
+    400106: Body1 43
+    400108: Body1 5
+    400110: Body1 6
+    400112: Body1 7
+    400114: Body1 8
+    400116: Body1 9
+    400118: //RootNode
+    400120: Brush Arm:1
+    400122: Brush Arm:2
+    400124: Brush Holder:1
+    400126: Connecting Rod v1:1
+    400128: Gear Housing Cover v1:1
+    400130: Gear Housing v1:1
+    400132: Guide Block 1 v1:1
+    400134: Guide Block 2 v1:1
+    400136: Large Bushing v1:2
+    400138: Large Spur Gear v1:1
+    400140: Motor Brush:1
+    400142: Motor Brush:2
+    400144: Motor Collar:1
+    400146: Motor Fan:1
+    400148: Motor Hat:1
+    400150: Motor Housing:1
+    400152: Motor Internals v1:2
+    400154: Motor Shaft:1
+    400156: Motor v1:1
+    400158: Permanent Magnet:1
+    400160: Permanent Magnet:2
+    400162: Reciprocating Rod:1
+    400164: Reciprocating Saw machine v5
+    400166: Right Housing:1
+    400168: Rotor Arm:1
+    400170: Rotor Arm:2
+    400172: Rotor Arm:3
+    400174: Rotor Arm:4
+    400176: Short Rod Clip v1:2
+    400178: Short Rod v1:1
+    400180: Small Bushing (1):1
+    400182: Small Bushing:1
+    400184: Small Spur Gear v1:1
+    400186: Trigger v1:1
+    2100000: 'Material #25'
+    2100002: 'Material #26'
+    2100004: 'Material #27'
+    2100006: 'Material #28'
+    2100008: 'Material #29'
+    2100010: 'Material #30'
+    2100012: 'Material #31'
+    2100014: 'Material #32'
+    2100016: 'Material #33'
+    2100018: 'Material #34'
+    2100020: 'Material #35'
+    2100022: 'Material #36'
+    2100024: 'Material #37'
+    2100026: 'Material #38'
+    2100028: 'Material #39'
+    2100030: 'Material #40'
+    2300000: Body1
+    2300002: Body1 1
+    2300004: Body1 10
+    2300006: Body1 11
+    2300008: Body1 12
+    2300010: Body1 13
+    2300012: Body1 14
+    2300014: Body1 15
+    2300016: Body1 16
+    2300018: Body1 17
+    2300020: Body1 18
+    2300022: Body1 19
+    2300024: Body1 2
+    2300026: Body1 20
+    2300028: Body1 21
+    2300030: Body1 22
+    2300032: Body1 23
+    2300034: Body1 24
+    2300036: Body1 25
+    2300038: Body1 26
+    2300040: Body1 27
+    2300042: Body1 28
+    2300044: Body1 29
+    2300046: Body1 3
+    2300048: Body1 30
+    2300050: Body1 31
+    2300052: Body1 32
+    2300054: Body1 33
+    2300056: Body1 34
+    2300058: Body1 35
+    2300060: Body1 36
+    2300062: Body1 37
+    2300064: Body1 38
+    2300066: Body1 39
+    2300068: Body1 4
+    2300070: Body1 40
+    2300072: Body1 41
+    2300074: Body1 42
+    2300076: Body1 43
+    2300078: Body1 5
+    2300080: Body1 6
+    2300082: Body1 7
+    2300084: Body1 8
+    2300086: Body1 9
+    3300000: Body1
+    3300002: Body1 1
+    3300004: Body1 10
+    3300006: Body1 11
+    3300008: Body1 12
+    3300010: Body1 13
+    3300012: Body1 14
+    3300014: Body1 15
+    3300016: Body1 16
+    3300018: Body1 17
+    3300020: Body1 18
+    3300022: Body1 19
+    3300024: Body1 2
+    3300026: Body1 20
+    3300028: Body1 21
+    3300030: Body1 22
+    3300032: Body1 23
+    3300034: Body1 24
+    3300036: Body1 25
+    3300038: Body1 26
+    3300040: Body1 27
+    3300042: Body1 28
+    3300044: Body1 29
+    3300046: Body1 3
+    3300048: Body1 30
+    3300050: Body1 31
+    3300052: Body1 32
+    3300054: Body1 33
+    3300056: Body1 34
+    3300058: Body1 35
+    3300060: Body1 36
+    3300062: Body1 37
+    3300064: Body1 38
+    3300066: Body1 39
+    3300068: Body1 4
+    3300070: Body1 40
+    3300072: Body1 41
+    3300074: Body1 42
+    3300076: Body1 43
+    3300078: Body1 5
+    3300080: Body1 6
+    3300082: Body1 7
+    3300084: Body1 8
+    3300086: Body1 9
+    4300000: Body1
+    4300002: Body1
+    4300004: Body1
+    4300006: Body1
+    4300008: Body1
+    4300010: Body1
+    4300012: Body1
+    4300014: Body1
+    4300016: Body1
+    4300018: Body1
+    4300020: Body1
+    4300022: Body1
+    4300024: Body1
+    4300026: Body1
+    4300028: Body1
+    4300030: Body1
+    4300032: Body1
+    4300034: Body1
+    4300036: Body1
+    4300038: Body1
+    4300040: Body1
+    4300042: Body1
+    4300044: Body1
+    4300046: Body1
+    4300048: Body1
+    4300050: Body1
+    4300052: Body1
+    4300054: Body1
+    4300056: Body1
+    4300058: Body1
+    4300060: Body1
+    4300062: Body1
+    4300064: Body1
+    4300066: Body1
+    4300068: Body1
+    4300070: Body1
+    4300072: Body1
+    4300074: Body1
+    4300076: Body1
+    4300078: Body1
+    4300080: Body1
+    4300082: Body1
+    4300084: Body1
+    4300086: Body1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 5d31808b582a4404bac674ff1a464e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: b65302b0b4cb949448193d2bd8161b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 4cd98341fb0b1884984175d372f97ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: 3e4b5ea10b0e020449c293080024b706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 7d53d7021b7865145bb9d2776305fac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: 84727365e3e808e46b17515d810a7adf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 3d638ae88fd10b9418e419468c9c3069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: 79c79a3515ac2e14c9fe654e878552b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: 72a5cce6b6c7d2c4e92257bf6095d4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: c1f01ac2c297efb43801485768a160af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 962ecafcb590e9c4eab415d5174a20e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: a174ae5e3dec6114198a45d597b3476a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: fc8e8736f8efa6440813d51f53c7e05f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: 7e415fb27a5f4ae41895fce6dd7c815a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 062b72499e23d0b4b9b825210e2a68a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 93a817356d6908641bcba51f6965ff21, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

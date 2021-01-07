@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: f3275c15dabd7004f80b08932cb43be1
+timeCreated: 1523551448
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ChamferCyl02
+    100002: //RootNode
+    100004: Line01
+    100006: Line02
+    100008: Line03
+    100010: Line04
+    100012: Line09
+    100014: Line10
+    100016: Line11
+    100018: Line12
+    100020: Line13
+    100022: Line14
+    100024: Line15
+    100026: Line16
+    100028: Line17
+    100030: Line18
+    100032: Line19
+    100034: Line20
+    100036: Line21
+    100038: Monitor
+    100040: obj_01
+    100042: obj_03
+    100044: Object01
+    100046: Object02
+    100048: Object03
+    100050: Particle View 01
+    100052: Particle View 01 1
+    100054: Particle View 01 2
+    100056: Particle View 01 3
+    100058: Plane01
+    100060: "\u041F\u043E\u0434\u0441\u0442\u0430\u0432\u043A\u0430"
+    400000: ChamferCyl02
+    400002: //RootNode
+    400004: Line01
+    400006: Line02
+    400008: Line03
+    400010: Line04
+    400012: Line09
+    400014: Line10
+    400016: Line11
+    400018: Line12
+    400020: Line13
+    400022: Line14
+    400024: Line15
+    400026: Line16
+    400028: Line17
+    400030: Line18
+    400032: Line19
+    400034: Line20
+    400036: Line21
+    400038: Monitor
+    400040: obj_01
+    400042: obj_03
+    400044: Object01
+    400046: Object02
+    400048: Object03
+    400050: Particle View 01
+    400052: Particle View 01 1
+    400054: Particle View 01 2
+    400056: Particle View 01 3
+    400058: Plane01
+    400060: "\u041F\u043E\u0434\u0441\u0442\u0430\u0432\u043A\u0430"
+    2100000: 'Material #2066214241'
+    2100002: Steklo2
+    2100004: Provod_chernii
+    2100006: Metall
+    2100008: Pl
+    2100010: Steklo
+    2100012: 'Material #175'
+    2100014: Lico
+    2100016: 'Material #121'
+    2100018: Rez
+    2100020: 'Material #2066214240'
+    2100022: Logo
+    2100024: 'Material #2066214243'
+    2100026: Provod_belii
+    2100028: Ekran2
+    2100030: "\u041F\u0440\u043E\u0432\u043E\u0434 \u0431\u0435\u043B\u044B\u0439"
+    2100032: Ekran1
+    2100034: Plastik
+    2100036: Hrom
+    2300000: ChamferCyl02
+    2300002: obj_01
+    2300004: obj_03
+    2300006: Object01
+    2300008: Object02
+    2300010: Object03
+    2300012: Plane01
+    2300014: "\u041F\u043E\u0434\u0441\u0442\u0430\u0432\u043A\u0430"
+    3300000: ChamferCyl02
+    3300002: obj_01
+    3300004: obj_03
+    3300006: Object01
+    3300008: Object02
+    3300010: Object03
+    3300012: Plane01
+    3300014: "\u041F\u043E\u0434\u0441\u0442\u0430\u0432\u043A\u0430"
+    4300000: Plane01
+    4300002: Object03
+    4300004: Object01
+    4300006: Object02
+    4300008: ChamferCyl02
+    4300010: obj_03
+    4300012: "\u041F\u043E\u0434\u0441\u0442\u0430\u0432\u043A\u0430"
+    4300014: obj_01
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ekran1
+    second: {fileID: 2100000, guid: bc6accb1715c4b247b3a5fae0fc07404, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ekran2
+    second: {fileID: 2100000, guid: 12d3005b9216f4f459bf4aea4b34a53c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hrom
+    second: {fileID: 2100000, guid: 695b9b32b83e5b846979b25769fceaf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lico
+    second: {fileID: 2100000, guid: 4a67e50cb8189f64eab1ec3460b3dd07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo
+    second: {fileID: 2100000, guid: a75c6fe5f000a1f48b1a8dc2f86179cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #121'
+    second: {fileID: 2100000, guid: bd2aaaea2af6f314fa666b6be51f4f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #175'
+    second: {fileID: 2100000, guid: 6ab328c950fa3ab4993b9433057e9436, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2066214240'
+    second: {fileID: 2100000, guid: ad4ec2c6ba8ff0348998817ef41d6350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2066214241'
+    second: {fileID: 2100000, guid: dc71732bb354c6542bf0d2b141128291, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2066214243'
+    second: {fileID: 2100000, guid: 867026d88ecca0d489daa9af3fa71006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall
+    second: {fileID: 2100000, guid: 5e3398e531de0ca4e82c5443aa41c9bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pl
+    second: {fileID: 2100000, guid: 31648bbe4a2dc01498620c15714e3b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastik
+    second: {fileID: 2100000, guid: c9fa4d22fd210f245b286465588e1892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Provod_belii
+    second: {fileID: 2100000, guid: fea66e069c52aa94aa0c500c5def24e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Provod_chernii
+    second: {fileID: 2100000, guid: eff7cf65c61963244b701afbd8130410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rez
+    second: {fileID: 2100000, guid: 1b9c0ddb84322b641a627b44c7f73891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steklo
+    second: {fileID: 2100000, guid: 50aa3fe0fd57ba94187207b7b3f4d80d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steklo2
+    second: {fileID: 2100000, guid: 1531905dc59f455419f96621ead25ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041F\u0440\u043E\u0432\u043E\u0434 \u0431\u0435\u043B\u044B\u0439"
+    second: {fileID: 2100000, guid: 859e6e0d6b7827544a496b45ba10b0c8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: logo copy
+    second: {fileID: 2800000, guid: dc7c0cd0c87c4824393403c13f6a5605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pc50_95_big
+    second: {fileID: 2800000, guid: d0135cc7c1d849048a7632fdd0bcd02e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pc53_63_big
+    second: {fileID: 2800000, guid: 1f4abc2e11d24c04c92080aed4e875e3, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

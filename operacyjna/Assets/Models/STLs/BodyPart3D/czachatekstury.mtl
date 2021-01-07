@@ -1,0 +1,1381 @@
+# File exported by Artec Group 3D Scanning Solutions
+# www.artec-group.com
+
+newmtl material_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_0.bmp
+
+newmtl material_1
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_1.bmp
+
+newmtl material_2
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_2.bmp
+
+newmtl material_3
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_3.bmp
+
+newmtl material_4
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_4.bmp
+
+newmtl material_5
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_5.bmp
+
+newmtl material_6
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_6.bmp
+
+newmtl material_7
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_7.bmp
+
+newmtl material_8
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_8.bmp
+
+newmtl material_9
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_9.bmp
+
+newmtl material_10
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_10.bmp
+
+newmtl material_11
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_11.bmp
+
+newmtl material_12
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_12.bmp
+
+newmtl material_13
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_13.bmp
+
+newmtl material_14
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_14.bmp
+
+newmtl material_15
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_15.bmp
+
+newmtl material_16
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_16.bmp
+
+newmtl material_17
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_17.bmp
+
+newmtl material_18
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_18.bmp
+
+newmtl material_19
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_19.bmp
+
+newmtl material_20
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_20.bmp
+
+newmtl material_21
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_21.bmp
+
+newmtl material_22
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_22.bmp
+
+newmtl material_23
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_23.bmp
+
+newmtl material_24
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_24.bmp
+
+newmtl material_25
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_25.bmp
+
+newmtl material_26
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_26.bmp
+
+newmtl material_27
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_27.bmp
+
+newmtl material_28
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_28.bmp
+
+newmtl material_29
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_29.bmp
+
+newmtl material_30
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_30.bmp
+
+newmtl material_31
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_31.bmp
+
+newmtl material_32
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_32.bmp
+
+newmtl material_33
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_33.bmp
+
+newmtl material_34
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_34.bmp
+
+newmtl material_35
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_35.bmp
+
+newmtl material_36
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_36.bmp
+
+newmtl material_37
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_37.bmp
+
+newmtl material_38
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_38.bmp
+
+newmtl material_39
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_39.bmp
+
+newmtl material_40
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_40.bmp
+
+newmtl material_41
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_41.bmp
+
+newmtl material_42
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_42.bmp
+
+newmtl material_43
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_43.bmp
+
+newmtl material_44
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_44.bmp
+
+newmtl material_45
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_45.bmp
+
+newmtl material_46
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_46.bmp
+
+newmtl material_47
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_47.bmp
+
+newmtl material_48
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_48.bmp
+
+newmtl material_49
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_49.bmp
+
+newmtl material_50
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_50.bmp
+
+newmtl material_51
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_51.bmp
+
+newmtl material_52
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_52.bmp
+
+newmtl material_53
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_53.bmp
+
+newmtl material_54
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_54.bmp
+
+newmtl material_55
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_55.bmp
+
+newmtl material_56
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_56.bmp
+
+newmtl material_57
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_57.bmp
+
+newmtl material_58
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_58.bmp
+
+newmtl material_59
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_59.bmp
+
+newmtl material_60
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_60.bmp
+
+newmtl material_61
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_61.bmp
+
+newmtl material_62
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_62.bmp
+
+newmtl material_63
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_63.bmp
+
+newmtl material_64
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_64.bmp
+
+newmtl material_65
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_65.bmp
+
+newmtl material_66
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_66.bmp
+
+newmtl material_67
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_67.bmp
+
+newmtl material_68
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_68.bmp
+
+newmtl material_69
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_69.bmp
+
+newmtl material_70
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_70.bmp
+
+newmtl material_71
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_71.bmp
+
+newmtl material_72
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_72.bmp
+
+newmtl material_73
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_73.bmp
+
+newmtl material_74
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_74.bmp
+
+newmtl material_75
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_75.bmp
+
+newmtl material_76
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_76.bmp
+
+newmtl material_77
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_77.bmp
+
+newmtl material_78
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_78.bmp
+
+newmtl material_79
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_79.bmp
+
+newmtl material_80
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_80.bmp
+
+newmtl material_81
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_81.bmp
+
+newmtl material_82
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_82.bmp
+
+newmtl material_83
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_83.bmp
+
+newmtl material_84
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_84.bmp
+
+newmtl material_85
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_85.bmp
+
+newmtl material_86
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_86.bmp
+
+newmtl material_87
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_87.bmp
+
+newmtl material_88
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_88.bmp
+
+newmtl material_89
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_89.bmp
+
+newmtl material_90
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_90.bmp
+
+newmtl material_91
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_91.bmp
+
+newmtl material_92
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_92.bmp
+
+newmtl material_93
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_93.bmp
+
+newmtl material_94
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_94.bmp
+
+newmtl material_95
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_95.bmp
+
+newmtl material_96
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_96.bmp
+
+newmtl material_97
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_97.bmp
+
+newmtl material_98
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_98.bmp
+
+newmtl material_99
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_99.bmp
+
+newmtl material_100
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_100.bmp
+
+newmtl material_101
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_101.bmp
+
+newmtl material_102
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_102.bmp
+
+newmtl material_103
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_103.bmp
+
+newmtl material_104
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_104.bmp
+
+newmtl material_105
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_105.bmp
+
+newmtl material_106
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_106.bmp
+
+newmtl material_107
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_107.bmp
+
+newmtl material_108
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_108.bmp
+
+newmtl material_109
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_109.bmp
+
+newmtl material_110
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_110.bmp
+
+newmtl material_111
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_111.bmp
+
+newmtl material_112
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_112.bmp
+
+newmtl material_113
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_113.bmp
+
+newmtl material_114
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_114.bmp
+
+newmtl material_115
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_115.bmp
+
+newmtl material_116
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_116.bmp
+
+newmtl material_117
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_117.bmp
+
+newmtl material_118
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_118.bmp
+
+newmtl material_119
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_119.bmp
+
+newmtl material_120
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_120.bmp
+
+newmtl material_121
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_121.bmp
+
+newmtl material_122
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_122.bmp
+
+newmtl material_123
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_123.bmp
+
+newmtl material_124
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_124.bmp
+
+newmtl material_125
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_125.bmp
+
+newmtl material_126
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_126.bmp
+
+newmtl material_127
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_127.bmp
+
+newmtl material_128
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_128.bmp
+
+newmtl material_129
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_129.bmp
+
+newmtl material_130
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_130.bmp
+
+newmtl material_131
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_131.bmp
+
+newmtl material_132
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_132.bmp
+
+newmtl material_133
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_133.bmp
+
+newmtl material_134
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_134.bmp
+
+newmtl material_135
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_135.bmp
+
+newmtl material_136
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_136.bmp
+
+newmtl material_137
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_137.bmp
+
+newmtl material_138
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_138.bmp
+
+newmtl material_139
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_139.bmp
+
+newmtl material_140
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_140.bmp
+
+newmtl material_141
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_141.bmp
+
+newmtl material_142
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_142.bmp
+
+newmtl material_143
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_143.bmp
+
+newmtl material_144
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_144.bmp
+
+newmtl material_145
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_145.bmp
+
+newmtl material_146
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_146.bmp
+
+newmtl material_147
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_147.bmp
+
+newmtl material_148
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_148.bmp
+
+newmtl material_149
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_149.bmp
+
+newmtl material_150
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_150.bmp
+
+newmtl material_151
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_151.bmp
+
+newmtl material_152
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_152.bmp
+
+newmtl material_153
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_153.bmp
+
+newmtl material_154
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_154.bmp
+
+newmtl material_155
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_155.bmp
+
+newmtl material_156
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_156.bmp
+
+newmtl material_157
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_157.bmp
+
+newmtl material_158
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_158.bmp
+
+newmtl material_159
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_159.bmp
+
+newmtl material_160
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_160.bmp
+
+newmtl material_161
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_161.bmp
+
+newmtl material_162
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_162.bmp
+
+newmtl material_163
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_163.bmp
+
+newmtl material_164
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_164.bmp
+
+newmtl material_165
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_165.bmp
+
+newmtl material_166
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_166.bmp
+
+newmtl material_167
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_167.bmp
+
+newmtl material_168
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_168.bmp
+
+newmtl material_169
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_169.bmp
+
+newmtl material_170
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_170.bmp
+
+newmtl material_171
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_171.bmp
+
+newmtl material_172
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_172.bmp
+
+newmtl material_173
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_173.bmp
+
+newmtl material_174
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_174.bmp
+
+newmtl material_175
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_175.bmp
+
+newmtl material_176
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_176.bmp
+
+newmtl material_177
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_177.bmp
+
+newmtl material_178
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_178.bmp
+
+newmtl material_179
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_179.bmp
+
+newmtl material_180
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_180.bmp
+
+newmtl material_181
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_181.bmp
+
+newmtl material_182
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_182.bmp
+
+newmtl material_183
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_183.bmp
+
+newmtl material_184
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_184.bmp
+
+newmtl material_185
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_185.bmp
+
+newmtl material_186
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_186.bmp
+
+newmtl material_187
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_187.bmp
+
+newmtl material_188
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_188.bmp
+
+newmtl material_189
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_189.bmp
+
+newmtl material_190
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_190.bmp
+
+newmtl material_191
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_191.bmp
+
+newmtl material_192
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_192.bmp
+
+newmtl material_193
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_193.bmp
+
+newmtl material_194
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_194.bmp
+
+newmtl material_195
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+map_Kd czachatekstury_195.bmp
+
+newmtl material_196
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 1000
+
